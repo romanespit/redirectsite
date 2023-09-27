@@ -1,0 +1,9 @@
+{
+    "version": "1.3",
+    "api_version": 3,
+    "layout":
+    {
+        "logo": "https://raw.githubusercontent.com/romanespit/site/main/img/browserPreview.png",
+        "color": "#1A3D8A"
+    }
+}
